@@ -4,6 +4,6 @@ type Props = {}
 
 export default function Contact({}: Props) {
   return (
-    <div>Contact us page</div>
+    <div>Contact us page contact me</div>
   )
 }
